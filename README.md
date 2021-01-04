@@ -5,4 +5,4 @@
 
 
 
-执行命令：`sh merge.sh`
+执行命令：`sh marge.sh`
